@@ -74,7 +74,7 @@ III. Key Visuals :
 
 IV. Screenshots :
 
-    Pizza Dashbaord Home :
+    Pizza Dashbaord Home : https://github.com/ushanayak12/Pizza-Sales-Dashboard/blob/main/Pizza%20Dashboard%20Home.png
     
     Best & Worst Sellers :
 
